@@ -8,5 +8,6 @@
   "postgresql-9.4": "postgresql@9.4",
   "postgresql-9.5": "postgresql@9.5",
   "postgresql-9.6": "postgresql@9.6",
-  "postgresql-10": "postgresql@10"
+  "postgresql-10": "postgresql@10",
+  "postgresql-10": "postgresql@10.1"
 }
