@@ -3,7 +3,7 @@ class PostgresqlAT101 < Formula
   homepage "https://www.postgresql.org/"
   version = "10.1"
   url "https://ftp.postgresql.org/pub/source/v#{version}/postgresql-#{version}.tar.bz2"
-  sha256 "6ea268780ee35e88c65cdb0af7955ad90b7d0ef34573867f223f14e43467931a"
+  sha256 "3ccb4e25fe7a7ea6308dea103cac202963e6b746697366d72ec2900449a5e713"
 
   head do
     url "https://git.postgresql.org/git/postgresql.git", :tag => "REL_10_1"
